@@ -1,2 +1,2 @@
 # Python_For_Machine_Learning
-- Suitable for python 2.7
+- Suitable for python 2.7 for Mac OS
